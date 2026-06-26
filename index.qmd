@@ -1,0 +1,27 @@
+---
+title: "Purna Saha"
+subtitle: "Data Scientist"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: headshot_purnasaha23.jpeg
+image-alt: "Purna Saha portrait"
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com//OldiePurna
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/purna-p-saha/
+---
+
+Hey! I love GIS and Computation. I am a Bangladeshi living in the US. 
+
+## Education
+
+Georgia Tech, Atlanta \|  Sept 2021 - June 2024
+
+## Experience
+
+SP \| Data Scientist \| April 2025 - present
